@@ -1,0 +1,2 @@
+# hackednet
+code of life
